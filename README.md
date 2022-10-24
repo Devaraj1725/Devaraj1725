@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Devaraj1725
+- 👋 Hi, I’m "Devaraj"
 - 👀 I’m interested in automation testing 
 - 🌱 I’m currently learning selenium with Java 
 - 💞️ I’m looking to collaborate on web automation 
