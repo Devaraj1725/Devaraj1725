@@ -1,6 +1,6 @@
 - 👋 Hi, I’m "Devaraj"
 - 👀 I’m interested in automation testing 
-- 🌱 I’m currently learning selenium with Java 
+- 🌱 I’m currently looking for a job opportunity  
 - 💞️ I’m looking to collaborate on web automation 
 - 📫 How to reach me "devaraj.m.gowda90@gmail.com"
 
